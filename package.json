@@ -1,0 +1,11 @@
+{
+  "name": "contact_us_svc",
+  "version": "0.0.1",
+  "description": "Simple Node service to use with \"Contact Us\" forms",
+  "main": "svc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Zechariah (arun@zechariah.net)",
+  "license": "ISC"
+}
